@@ -1,1 +1,1 @@
-# Course-Management-System
+# Student Course Registration System
